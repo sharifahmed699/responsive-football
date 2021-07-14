@@ -98,6 +98,7 @@ header{
 .player-desc{
     font-size: 16px;
     color: #6C6C6C;
+    padding: 0.25rem;
 }
 
 /* -------------------
@@ -218,5 +219,3 @@ footer{
         height: 95px;
     }
 }
-
-
